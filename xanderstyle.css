@@ -3,7 +3,7 @@ h1{ color: #DA70D6
 
 }
 
-h2{ color: #BA55D3
+h2{ color: #9400D3
 
 }
 
@@ -14,6 +14,28 @@ p{
 }
 
 p.interview{
-	color: #ff3300
+	color: purple
 
+}
+#medias{border: dotted 3px red;
+		padding: 10px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		width: 70px
+}
+
+img{border: dashed 3px red;
+	padding: 3px;
+	width: 200px
+
+}
+#jacket{margin-right: 80px
+
+
+}
+
+@media(min-width: 900px){
+
+
+	
 }
